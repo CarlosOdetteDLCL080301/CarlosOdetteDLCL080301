@@ -92,7 +92,6 @@
   <div style="display: flex; align-items: center; justify-content: center; background-color: #f8f9fa; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 800px; margin: 0 auto;">
     <img src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif" alt="Cute kitty animation" width="180px" style="margin-right: 30px;">
     <p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:ing.delacruz.carlosodette@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/CarlosOdetteDLCL080301"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/carlosodettedelacuzlopez/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
