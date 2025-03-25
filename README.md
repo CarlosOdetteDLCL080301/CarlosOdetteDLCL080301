@@ -102,7 +102,7 @@
       <p style="font-style: italic; margin-top: 20px; color: #555;">I'm always open to interesting conversations and collaboration opportunities!</p>
       <br>
       <h2>🔥 Want to know more about me?</h2>
-      <a href="[https://yourwebsite.com/your-cv.pdf](https://admimpulsa.com.mx/visualizarEvidencia?idServicio=1706)" download>
+      <a href="https://admimpulsa.com.mx/visualizarEvidencia?idServicio=1706" download>
         <img src="https://img.shields.io/badge/Download%20CV-%230A66C2.svg?&style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Download CV">
       </a>
     </div>
